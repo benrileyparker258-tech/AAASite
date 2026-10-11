@@ -1,0 +1,45 @@
+HTTrack3.50-5 launched on Sun, 11 Oct 2026 12:53:57 at https://patient-recipe-31fe.slayadm0002.workers.dev/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "pt_BR, en, *" https://patient-recipe-31fe.slayadm0002.workers.dev/ -O1 "C:\Users\Manuel\Documents\SITEEE\AbrirSite" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:54:22	Error: 	"Not Found" (404) at link https://patient-recipe-31fe.slayadm0002.workers.dev/css/all.min.css (from https://patient-recipe-31fe.slayadm0002.workers.dev/)
+12:54:22	Error: 	"Not Found" (404) at link https://patient-recipe-31fe.slayadm0002.workers.dev/images/d2m39n.jpg (from https://patient-recipe-31fe.slayadm0002.workers.dev/)
+12:54:22	Error: 	"Not Found" (404) at link https://patient-recipe-31fe.slayadm0002.workers.dev/images/5abg8b.png (from https://patient-recipe-31fe.slayadm0002.workers.dev/)
+12:54:22	Error: 	"Not Found" (404) at link https://patient-recipe-31fe.slayadm0002.workers.dev/images/jxs3nq.webp (from https://patient-recipe-31fe.slayadm0002.workers.dev/)
+12:54:22	Error: 	"Not Found" (404) at link https://patient-recipe-31fe.slayadm0002.workers.dev/images/p3mhmh.webp (from https://patient-recipe-31fe.slayadm0002.workers.dev/)
+12:54:22	Error: 	"Not Found" (404) at link https://patient-recipe-31fe.slayadm0002.workers.dev/images/qgev5z.webp (from https://patient-recipe-31fe.slayadm0002.workers.dev/)
+12:54:22	Error: 	"Not Found" (404) at link https://patient-recipe-31fe.slayadm0002.workers.dev/images/s6vqfb.webp (from https://patient-recipe-31fe.slayadm0002.workers.dev/)
+12:54:22	Error: 	"Not Found" (404) at link https://patient-recipe-31fe.slayadm0002.workers.dev/images/pxqmhb.webp (from https://patient-recipe-31fe.slayadm0002.workers.dev/)
+12:54:22	Error: 	"Not Found" (404) at link https://patient-recipe-31fe.slayadm0002.workers.dev/images/jvpxji.webp (from https://patient-recipe-31fe.slayadm0002.workers.dev/)
+12:54:22	Error: 	"Not Found" (404) at link https://patient-recipe-31fe.slayadm0002.workers.dev/images/cvyr4s.jpg (from https://patient-recipe-31fe.slayadm0002.workers.dev/)
+12:54:22	Error: 	"Not Found" (404) at link https://patient-recipe-31fe.slayadm0002.workers.dev/images/mb5jil.webp (from https://patient-recipe-31fe.slayadm0002.workers.dev/)
+12:54:22	Error: 	"Not Found" (404) at link https://patient-recipe-31fe.slayadm0002.workers.dev/images/98mah7.webp (from https://patient-recipe-31fe.slayadm0002.workers.dev/)
+12:54:22	Error: 	"Not Found" (404) at link https://patient-recipe-31fe.slayadm0002.workers.dev/images/27el0h.jpg (from https://patient-recipe-31fe.slayadm0002.workers.dev/)
+12:54:22	Error: 	"Not Found" (404) at link https://patient-recipe-31fe.slayadm0002.workers.dev/images/1z2ho5.jpg (from https://patient-recipe-31fe.slayadm0002.workers.dev/)
+12:54:22	Error: 	"Not Found" (404) at link https://patient-recipe-31fe.slayadm0002.workers.dev/images/wn3xsm.webp (from https://patient-recipe-31fe.slayadm0002.workers.dev/)
+12:54:22	Error: 	"Not Found" (404) at link https://patient-recipe-31fe.slayadm0002.workers.dev/images/9aw5bi.png (from https://patient-recipe-31fe.slayadm0002.workers.dev/)
+12:54:22	Error: 	"Not Found" (404) at link https://patient-recipe-31fe.slayadm0002.workers.dev/images/90zto4.webp (from https://patient-recipe-31fe.slayadm0002.workers.dev/)
+12:54:22	Error: 	"Not Found" (404) at link https://patient-recipe-31fe.slayadm0002.workers.dev/images/q9am3e.webp (from https://patient-recipe-31fe.slayadm0002.workers.dev/)
+12:54:22	Error: 	"Not Found" (404) at link https://patient-recipe-31fe.slayadm0002.workers.dev/images/ikn5dx.webp (from https://patient-recipe-31fe.slayadm0002.workers.dev/)
+12:54:22	Error: 	"Not Found" (404) at link https://patient-recipe-31fe.slayadm0002.workers.dev/images/ltal60.jpg (from https://patient-recipe-31fe.slayadm0002.workers.dev/)
+12:54:22	Error: 	"Not Found" (404) at link https://patient-recipe-31fe.slayadm0002.workers.dev/images/qi768e.png (from https://patient-recipe-31fe.slayadm0002.workers.dev/)
+12:54:22	Error: 	"Not Found" (404) at link https://patient-recipe-31fe.slayadm0002.workers.dev/images/b24a8q.webp (from https://patient-recipe-31fe.slayadm0002.workers.dev/)
+12:54:22	Error: 	"Not Found" (404) at link https://patient-recipe-31fe.slayadm0002.workers.dev/images/ognt4c.webp (from https://patient-recipe-31fe.slayadm0002.workers.dev/)
+12:54:22	Error: 	"Not Found" (404) at link https://patient-recipe-31fe.slayadm0002.workers.dev/images/52ac4n.jpg (from https://patient-recipe-31fe.slayadm0002.workers.dev/)
+12:54:22	Error: 	"Not Found" (404) at link https://patient-recipe-31fe.slayadm0002.workers.dev/images/uwdw99.webp (from https://patient-recipe-31fe.slayadm0002.workers.dev/)
+12:54:22	Error: 	"Not Found" (404) at link https://patient-recipe-31fe.slayadm0002.workers.dev/images/g03pav.webp (from https://patient-recipe-31fe.slayadm0002.workers.dev/)
+12:54:22	Error: 	"Not Found" (404) at link https://patient-recipe-31fe.slayadm0002.workers.dev/images/jg87jo.webp (from https://patient-recipe-31fe.slayadm0002.workers.dev/)
+12:54:22	Error: 	"Not Found" (404) at link https://patient-recipe-31fe.slayadm0002.workers.dev/images/v1v675.webp (from https://patient-recipe-31fe.slayadm0002.workers.dev/)
+12:54:23	Error: 	"Not Found" (404) at link https://patient-recipe-31fe.slayadm0002.workers.dev/images/hknuvd.webp (from https://patient-recipe-31fe.slayadm0002.workers.dev/)
+12:54:23	Error: 	"Not Found" (404) at link https://patient-recipe-31fe.slayadm0002.workers.dev/images/w5dgs7.webp (from https://patient-recipe-31fe.slayadm0002.workers.dev/)
+12:54:23	Error: 	"Not Found" (404) at link https://patient-recipe-31fe.slayadm0002.workers.dev/images/l8ddlv.jpg (from https://patient-recipe-31fe.slayadm0002.workers.dev/)
+12:54:23	Error: 	"Not Found" (404) at link https://patient-recipe-31fe.slayadm0002.workers.dev/images/hugf1r.jpg (from https://patient-recipe-31fe.slayadm0002.workers.dev/)
+12:54:23	Error: 	"Not Found" (404) at link https://patient-recipe-31fe.slayadm0002.workers.dev/images/6iuyoe.jpg (from https://patient-recipe-31fe.slayadm0002.workers.dev/)
+12:54:23	Error: 	"Not Found" (404) at link https://patient-recipe-31fe.slayadm0002.workers.dev/images/sero7o.jpg (from https://patient-recipe-31fe.slayadm0002.workers.dev/)
+
+HTTrack Website Copier/3.50-5 mirror complete in 26 seconds : 42 links scanned, 6 files written (175616 bytes overall) [102877 bytes received at 3956 bytes/sec], 116319 bytes transferred using HTTP compression in 3 files, ratio 15%, 10.5 requests per connection
+(34 errors, 0 warnings, 0 messages)
